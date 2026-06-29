@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-melodie-des-glucks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Die Melodie des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-melodie-des-glucks/) |
+| **Get License** | [Obtain a Music License for Die Melodie des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-melodie-des-glucks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
